@@ -11,13 +11,13 @@ const vue = require('./vue')
 
 module.exports = {
   url,
-  babel,
-  coffee,
-  elm,
   erb,
-  css,
-  sass,
+  coffee,
   typescript,
   vue,
+  elm,
+  babel,
+  css,
+  sass,
   file
 }
